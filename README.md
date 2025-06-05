@@ -1,1 +1,1 @@
-# Binkeyit Full Stack MERN App# mern-simple-ecommerce-2025
+# Mustafa rahman Full Stack MERN App# mern-simple-ecommerce-2025
