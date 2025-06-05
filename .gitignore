@@ -1,1 +1,6 @@
+# Ignore node_modules in both client and server
+client/node_modules/
+server/node_modules/
+
+# Optional: Ignore root node_modules if you have one
 node_modules/
